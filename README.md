@@ -14,3 +14,21 @@ When something is connected to the Internet, that means that it can send informa
  An IoT system consists of sensors or devices that “talk” to the cloud through some kind of connectivity. The system then integrates data from the different devices and can apply analytics to share the most valuagable information with applications built to address specific needs.
  
  > Devices and objects > Sensors > Information sent back and forth > Cloud where information is stored
+
+## Use Cases in Action
+IoT is about connecting stuff so that it works better, making our lives more productive, connected, and safer.
+
+* Energy Industry
+Sensors monitor things such as lighting, temperature, energy use, and more. By processing that sensor data, intelligent algorithms can micromanage energy use in real time far more effectively than individuals can, saving money and energy.
+
+* Agriculture Industry
+Sensors monitor soil moisture and take weather into account so that smart irrigation systems only water crops when needed, reducing the amount of water used.
+
+* Disaster Warning
+Sensors collect critical information about the environment, allowing for early detection of environmental disasters, such as earthquakes and tsunamis, thus saving lives.
+
+
+---
+Asset Management System
+
+Continuous Engineering Application
